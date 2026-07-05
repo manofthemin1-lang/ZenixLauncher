@@ -1,14 +1,12 @@
 {
-  "version": "3.0.1",
-  "download": "https://github.com/manofthemin1-lang/ZenixLauncher/releases/tag/v3.0.1",
-  "minimumVersion": "3.0.0",
-  "required": true,
-  "title": "Zenix V3.0.1",
-  "size": "36 MB",
-  "changelog": [
-    "Improved injector",
-    "New UI animations",
-    "Performance improvements",
-    "Bug fixes"
+  "version": "3.0.0",
+  "download": "https://github.com/manofthemin1-lang/ZenixLauncher/releases/download/v3.0.0/ZenixV3.0.0.zip",
+  "size": 37748736,
+  "sha256": "",
+  "releaseNotes": [
+    "Initial launcher release",
+    "Automatic update support",
+    "Bootstrapper improvements",
+    "Login system"
   ]
 }

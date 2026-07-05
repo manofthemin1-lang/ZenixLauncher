@@ -1,8 +1,6 @@
 {
   "version": "3.0.0",
   "download": "https://github.com/manofthemin1-lang/ZenixLauncher/releases/download/v3.0.0/ZenixV3.0.0.zip",
-  "size": 37748736,
-  "sha256": "",
   "releaseNotes": [
     "Initial launcher release",
     "Automatic update support",

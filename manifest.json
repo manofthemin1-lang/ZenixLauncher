@@ -1,0 +1,13 @@
+{
+    "version": "3.0.0",
+    "files": [
+        {
+            "name": "Zenix.exe",
+            "url": "https://raw.githubusercontent.com/manofthemin1-lang//ZenixLauncher/main/files/Zenix.exe"
+        },
+        {
+            "name": "QuorumAPI.dll",
+            "url": "https://raw.githubusercontent.com/manofthemin1-lang//ZenixLauncher/main/files/QuorumAPI.dll"
+        }
+    ]
+}

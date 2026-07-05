@@ -1,13 +1,14 @@
 {
-    "version": "3.0.0",
-    "files": [
-        {
-            "name": "Zenix.exe",
-            "url": "https://raw.githubusercontent.com/manofthemin1-lang//ZenixLauncher/main/files/Zenix.exe"
-        },
-        {
-            "name": "QuorumAPI.dll",
-            "url": "https://raw.githubusercontent.com/manofthemin1-lang//ZenixLauncher/main/files/QuorumAPI.dll"
-        }
-    ]
+  "version": "3.0.1",
+  "download": "https://github.com/manofthemin1-lang/ZenixLauncher/releases/tag/v3.0.1",
+  "minimumVersion": "3.0.0",
+  "required": true,
+  "title": "Zenix V3.0.1",
+  "size": "36 MB",
+  "changelog": [
+    "Improved injector",
+    "New UI animations",
+    "Performance improvements",
+    "Bug fixes"
+  ]
 }
